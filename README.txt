@@ -1,0 +1,1 @@
+Esta es una biblioteca Arduino para la serie DHT de sensores de temperatura / 
